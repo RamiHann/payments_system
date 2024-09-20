@@ -1,6 +1,3 @@
-# payments_system
-
-
 -- Create the database
 CREATE DATABASE banking_system;
 
